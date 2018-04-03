@@ -1,6 +1,6 @@
 {
   "name": "@nju33/meta-info-webpack-plugin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "repository": "https://github.com/nju33/meta-info-webpack-plugin",
   "author": "nju33 <nju33.ki@gmail.com>",
